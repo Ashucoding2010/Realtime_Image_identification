@@ -1,0 +1,38 @@
+.heading_1 {
+
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.heading_2 {
+
+    width: 60%;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 5px,5px,5px,black ;
+    background-color: azure;
+    border-radius: 20px;
+    margin-left: 300px;
+    color: blue;
+
+}
+
+.heading_3 {
+
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 60px;
+
+
+}
+
+canvas{
+
+background-color: azure;
+border: 3px solid orange;
+
+}
